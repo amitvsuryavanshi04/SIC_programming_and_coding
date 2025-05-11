@@ -31,9 +31,10 @@ This **Python-based Coding and Programming** course focuses on building a strong
 ### Folder Structure
 
   [1️⃣_Basics](01_basics)  
-  Contains materials related to the basic concepts of Python, such as syntax, data types, and flow of code executions
-
-> Additional folders will be added as the course progresses.
+  > Contains materials related to the basic concepts of Python, such as syntax, data types, and flow of code executions
+  
+  [2️⃣_Conditional_and_loop_statements](02_conditional_and_loop_statements)
+  > Contains beginner-level programs using conditionals and loops 
 
 ---
 
