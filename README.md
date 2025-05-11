@@ -37,7 +37,13 @@ This **Python-based Coding and Programming** course focuses on building a strong
   > Contains beginner-level programs using conditionals and loops 
 
 ---
+You can open and view the notebooks online using Google Colab:
 
+| Folder | Notebook | Open in Colab |
+|--------|----------|---------------|
+| `01_basics` | `01_python_basic_codes.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RQLu8PYDpnVz8_5KmbSZWVGBEOkGYg27) |
+| `02_Conditional_and_loop_statements` | `02_conditional_and_loop_examples.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AL8E3I1oSx0QpENzNZbk0mlc-YwDd4UQ?usp=sharing) |
+---
 ## 🛠️ Development Environment
 
 All programming tasks were carried out using **Jupyter Notebook** through the **Anaconda distribution**.
