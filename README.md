@@ -34,7 +34,10 @@ This **Python-based Coding and Programming** course focuses on building a strong
   > Contains materials related to the basic concepts of Python, such as syntax, data types, and flow of code executions
   
   [2️⃣_Conditional_and_loop_statements](02_conditional_and_loop_statements)
-  > Contains beginner-level programs using conditionals and loops 
+  > Contains beginner-level programs using conditionals and loops
+
+  [3️⃣_Recursions_creating_simple_appn](03_recursions_creating_simple_appn)
+  > This notebook has various examples of recursion functiona and simple application based example like simple calculator, HCF,LCM and log etc.
 
 ---
 You can open and view the notebooks online using Google Colab:
