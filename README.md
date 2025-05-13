@@ -39,6 +39,8 @@ This **Python-based Coding and Programming** course focuses on building a strong
   [3️⃣_Recursions_creating_simple_appn](03_recursions_creating_simple_appn)
   > This notebook has various examples of recursion functiona and simple application based example like simple calculator, HCF,LCM and log etc.
 
+  [4️⃣_array_matrix_strings](04_array_matrix_strings)
+  > This notebook contains various examples related to following concepts strings, arrays , matrices and its operations and strings with it's operations
 ---
 You can open and view the notebooks online using Google Colab:
 
@@ -47,6 +49,7 @@ You can open and view the notebooks online using Google Colab:
 | `01_basics` | `01_python_basic_codes.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RQLu8PYDpnVz8_5KmbSZWVGBEOkGYg27) |
 | `02_Conditional_and_loop_statements` | `02_conditional_and_loop_examples.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AL8E3I1oSx0QpENzNZbk0mlc-YwDd4UQ?usp=sharing) |
 | `03_recursions_creating_simple_appn` | `03_recursions_creating_simple_appn.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10o24MD4zV--BzwHzWp7Qu7gARa-n0uyE?usp=sharing) |
+| `04_array_matrix_strings` | `04_array_matrix_strings.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Rvesm7FK4mCPBdAYPPzYEnjVpPDKIh_D) |
 ---
 ## 🛠️ Development Environment
 
