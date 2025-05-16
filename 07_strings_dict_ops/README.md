@@ -33,7 +33,4 @@ This notebook contains a collection of Python programs (Program 61 to Program 70
 - Understanding string processing and regular expressions
 - Basic data cleaning tasks and data structure transformations
 
----
-
-🧠 **Tip**: Use this notebook to practice writing reusable functions and test with various inputs to solidify your understanding.
 
