@@ -33,25 +33,25 @@ This **Python-based Coding and Programming** course focuses on building a strong
 
 ### Folder Structure
 
-  [1️⃣_Basics](01_basics)  
+  [1️⃣_Basics](Session_wise_codes/01_basics)  
   > Contains materials related to the basic concepts of Python, such as syntax, data types, and flow of code executions
   
-  [2️⃣_Conditional_and_loop_statements](02_conditional_and_loop_statements)
+  [2️⃣_Conditional_and_loop_statements](Session_wise_codes/02_conditional_and_loop_statements)
   > Contains beginner-level programs using conditionals and loops
 
-  [3️⃣_Recursions_creating_simple_appn](03_recursions_creating_simple_appn)
+  [3️⃣_Recursions_creating_simple_appn](Session_wise_codes/03_recursions_creating_simple_appn)
   > This notebook has various examples of recursion functiona and simple application based example like simple calculator, HCF,LCM and log etc.
 
-  [4️⃣_array_matrix_strings](04_array_matrix_strings)
+  [4️⃣_array_matrix_strings](Session_wise_codes/04_array_matrix_strings)
   > This notebook contains various examples related to following concepts strings, arrays , matrices and its operations and strings with it's operations
 
-  [5️⃣_number_string_analysis](05_Number_and_String_Analysis_Programs)
+  [5️⃣_number_string_analysis](Session_wise_codes/05_Number_and_String_Analysis_Programs)
   > This notebook contains a collection of Python programs focused on string manipulation and number theory. It covers tasks such as checking for special types of numbers and performing basic operations on lists.
 
-  [6️⃣_list_ops_basics](06_list_ops_basics)
+  [6️⃣_list_ops_basics](Session_wise_codes/06_list_ops_basics)
   > This notebook contains a collection of Python programs focused on fundamental list and string operations. It covers essential tasks such as finding the largest elements, filtering even/odd numbers, counting elements, and basic string manipulation.
 
-  [7️⃣_strings_dict_ops](07_strings_dict_ops)
+  [7️⃣_strings_dict_ops](Session_wise_codes/07_strings_dict_ops)
   > This notebook contains a collection of Python programs (Program 61 to Program 70) focusing on string manipulation and dictionary operations. These are foundational exercises for building up programming skills in Python.
 
 ---
