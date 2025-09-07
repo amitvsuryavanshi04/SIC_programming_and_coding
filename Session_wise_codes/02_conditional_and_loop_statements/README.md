@@ -1,6 +1,6 @@
 # 02_conditionals 🔀
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AL8E3I1oSx0QpENzNZbk0mlc-YwDd4UQ?usp=sharing)
 
 This notebook demonstrates conditional logic in Python using `if`, `elif`, and `else` statements. It includes decision-making examples involving numbers, dates, and logic checks.
 
